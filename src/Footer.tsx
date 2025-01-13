@@ -34,7 +34,7 @@ const Footer = () => {
             </form>
             <div className="flex gap-3 mt-5 items-center">
               <input
-                className="hidden"
+                className=""
                 id="agreement"
                 type="checkbox"
                 name="agreement"

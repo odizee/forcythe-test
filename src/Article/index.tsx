@@ -18,7 +18,7 @@ const Article = () => {
         <Button showIcon aria-label="Read more articles" />
       </div>
       <div
-        className="flex flex-col gap-x-12 md:flex-row"
+        className="flex flex-col gap-x-12 md:flex-row gap-y-3"
         role="region"
         aria-labelledby="articles-list"
       >
